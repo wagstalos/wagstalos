@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi! My name is Wagner Silva. I'm 31 years old. I'm from Brazil. I have experience as a freelancer, game developer and front-end.
 
-- 📫 How to reach me: insta @wagner.paulol89 
+- 📫 How to reach me: insta @wagner.paulo89 
 - 📫 How to reach me: Frontendmentor https://www.frontendmentor.io/profile/wagstalos
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/wagner-silva-6a163555/
 <!--
