@@ -1,6 +1,8 @@
 ### Hi there 👋
 Hi! My name is Wagner Silva. I'm 31 years old. I'm from Brazil. I have experience as a freelancer, game developer and front-end.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=wagstalos&amp;layout=compact&amp;theme=tokyonight)](https://github.com/wagstalos/nlw3)
+
 - 📫 How to reach me: insta @wagner.paulo89 
 - 📫 How to reach me: Frontendmentor https://www.frontendmentor.io/profile/wagstalos
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/wagner-silva-6a163555/
@@ -18,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
