@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi! My name is Wagner Silva. I'm 31 years old. I'm from Brazil. I have experience as a freelancer, game developer and front-end.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=wagstalos&amp;layout=compact&amp;theme=tokyonight)](https://github.com/wagstalos/nlw3)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=wagstalos&amp;layout=compact&amp;theme=tokyonight)]
 
 <a href="https://github.com/wagstalos/wps-games-new">
   <img align="center" src="https://camo.githubusercontent.com/2ebfba68384dbb81cf5c5362f6856d50816e389d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
