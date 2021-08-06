@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! My name is Wagner Silva. I'm 33 years old. I'm from Brazil. I have experience as a freelancer, game developer and front-end.
+Hi! My name is Wagner Silva. I'm 32 years old. I'm from Brazil. I have experience as a freelancer, game developer and front-end.
 
 Portfólio: https://wpsgames.com.br/sites/reactjs/portfolio/
 
