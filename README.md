@@ -11,8 +11,9 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagstalos&layout=compact)](https://github.com/wagstalos/github-readme-stats)
+![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=dracula)
+)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagstalos&layout=compact&theme=dracula)](https://github.com/wagstalos/github-readme-stats)
 
 
 
