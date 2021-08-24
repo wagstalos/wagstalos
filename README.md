@@ -14,7 +14,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 
 ### studying
 
-![Github NodeJS](https://img.shields.io/badge/-NodeJs-90C53F?logo=NodeJs)
+![Github NodeJS](https://img.shields.io/badge/-NodeJs-90C53F?logo=Node.js&logoColor=whit)
 ![Github Mongo](https://img.shields.io/badge/-mongodb-FFF?logo=mongodb)
 
 
