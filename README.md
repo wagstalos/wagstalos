@@ -11,6 +11,9 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+![](https://github.com/wagstalos/github-stats/blob/master/generated/overview.svg)
+
+
 ### Como me encontrar:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-silva-6a163555/)](https://www.linkedin.com/in/wagner-silva-6a163555/)
