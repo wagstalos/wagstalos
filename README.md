@@ -20,8 +20,6 @@ Portfólio: http://portfolio.wpsgames.com.br/
   <img align="center" src="https://camo.githubusercontent.com/83329fb35b579a50bd5eb9553811e8ec71cd78cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" />
 </a>
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
-
 
 - 📫 How to reach me: insta @wagner.paulo89 
 - 📫 How to reach me: Frontendmentor https://www.frontendmentor.io/profile/wagstalos
@@ -43,6 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos)](https://github.com/anuraghazra/github-readme-stats)
 
