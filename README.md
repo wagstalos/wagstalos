@@ -15,7 +15,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ### studying
 
 ![Github NodeJS](https://img.shields.io/badge/NODEJS-90C53F?style=for-the-badge&logo=Node.js&logoColor=white)
-![Github Mongo](https://img.shields.io/badge/-mongodb-FFF?logo=mongodb)
+![Github Mongo](https://img.shields.io/badge/MongoDB-dfe6e9?style=for-the-badge&logo=mongodb)
 
 
 ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=dracula)
