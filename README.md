@@ -14,6 +14,8 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ### Como me encontrar
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-farias-10/)](https://www.linkedin.com/in/wagner-silva-6a163555/)
 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/murilo.c.farias/)](https://www.instagram.com/wagner.paulo89//)
+
 - 📫 How to reach me: insta @wagner.paulo89 
 - 📫 How to reach me: Frontendmentor https://www.frontendmentor.io/profile/wagstalos
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/wagner-silva-6a163555/
