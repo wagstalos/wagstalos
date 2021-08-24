@@ -11,9 +11,9 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![](https://github.com/wagstalos/github-stats/blob/master/generated/overview.svg)
+![(https://github.com/wagstalos/github-stats/blob/master/generated/overview.svg)]
 
-![](https://github.com/wagstalos/github-stats/blob/master/generated/languages.svg)
+![(https://github.com/wagstalos/github-stats/blob/master/generated/languages.svg)]
 
 
 ### Como me encontrar:
