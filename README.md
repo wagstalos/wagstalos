@@ -49,11 +49,3 @@ Here are some ideas to get you started:
 <p align="center"> Quantidade  de visitas no meu perfil desde 24/08/2021  </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" /></p>
 
- steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
