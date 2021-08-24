@@ -21,6 +21,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ![Github Mongo](https://img.shields.io/badge/MongoDB-dfe6e9?style=for-the-badge&logo=mongodb)
 ![Github Mongo](https://img.shields.io/badge/next.js-2d3436?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Github Mongo](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=Unity&logoColor=white)
+![Github Mongo](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 
 
 ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=dracula)
