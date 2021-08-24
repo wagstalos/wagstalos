@@ -13,6 +13,8 @@ Portfólio: http://portfolio.wpsgames.com.br/
 
 ![](https://github.com/wagstalos/github-stats/blob/master/generated/overview.svg)
 
+![](https://github.com/wagstalos/github-stats/blob/master/generated/languages.svg)
+
 
 ### Como me encontrar:
 
