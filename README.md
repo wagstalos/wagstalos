@@ -16,7 +16,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-silva-6a163555/)](https://www.linkedin.com/in/wagner-silva-6a163555/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)](https://www.facebook.com/wagstalos/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wagner.paulo89/)](https://www.instagram.com/wagner.paulo89/)
-[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{#feca57}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=http://portfolio.wpsgames.com.br/)](http://portfolio.wpsgames.com.br/)
+[![Github Portifolio](https://img.shields.io/badge/MeuPortfolio-{feca57}?style=for-the-badge&logo={Portifolio}&logoColor=white&link=http://portfolio.wpsgames.com.br/)](http://portfolio.wpsgames.com.br/)
 
 
 - 📫 How to reach me: insta @wagner.paulo89 
