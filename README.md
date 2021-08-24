@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> Qunatidade  de visitas no meu perfil desde 24/08/2021  </p>
+<p align="center"> Quantidade  de visitas no meu perfil desde 24/08/2021  </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" /></p>
 
 
