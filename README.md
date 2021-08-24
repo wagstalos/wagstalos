@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! My name is Wagner Silva. I'm 32 years old. I'm from Brazil. I have experience as a freelancer, game developer and front-end.
+Hi, I'm Wagner Paulo, professional in the area of Web and Games Development, graduated in Graphic Design (UNIP) and Digital Games Development (ETEC). Passionate about technologies, I work with the production of websites, applications, PWA and digital games. I have experience as a freelancer, game developer and front-end.
 
 Portfólio: http://portfolio.wpsgames.com.br/
 
