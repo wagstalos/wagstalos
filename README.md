@@ -12,7 +12,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Github ReactJS](https://img.shields.io/badge/-ReactJs-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Github ReactJS](https://img.shields.io/badge/wordpress-30336b?style=for-the-badge&logo=WordPress&logoColor=white)
-![Github ReactJS](https://img.shields.io/badge/Construct3-00cec9?style=for-the-badge&logo=Construct%203&logoColor=white)
+![Github ReactJS](https://img.shields.io/badge/Construct3-636e72?style=for-the-badge&logo=Construct%203&logoColor=white)
 
 ### studying
 
