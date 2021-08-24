@@ -17,8 +17,6 @@ Portfólio: http://portfolio.wpsgames.com.br/
 
 
 
-
-
 ### Como me encontrar:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-silva-6a163555/)](https://www.linkedin.com/in/wagner-silva-6a163555/)
