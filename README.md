@@ -11,7 +11,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true)
 
 
 
