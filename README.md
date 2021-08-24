@@ -8,6 +8,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=wagstalos&amp;layout=compact&amp;theme=tokyonight)
+<img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="Github css3" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width:100%;">
 
 <a href="https://github.com/wagstalos/wps-games-new">
   <img align="center" src="https://camo.githubusercontent.com/2ebfba68384dbb81cf5c5362f6856d50816e389d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
