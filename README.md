@@ -11,6 +11,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 ![Github SASS](https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Github ReactJS](https://img.shields.io/badge/-ReactJs-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Github ReactJS](https://img.shields.io/badge/wordpress-30336b?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### studying
 
