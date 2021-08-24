@@ -50,4 +50,3 @@ Here are some ideas to get you started:
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" /></p>
 
 
-    github_user_name: ${{ github.wagstalos }}
