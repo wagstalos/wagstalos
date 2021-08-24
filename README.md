@@ -12,6 +12,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 
 
 ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/wagstalos/github-readme-stats)
 
 
 
