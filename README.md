@@ -60,7 +60,5 @@ Here are some ideas to get you started:
 
 
 <p align="center"> Quantidade  de visitas no meu perfil desde 24/08/2021  </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" /></p>
-
-![Snake animation](https://github.com/wagstalos/blob/output/github-contribution-grid-snake.svg)
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" />
 
