@@ -26,7 +26,7 @@ Portfólio: http://portfolio.wpsgames.com.br/
 <div align="center"> ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=dracula)<div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagstalos&layout=compact&theme=dracula)](https://github.com/wagstalos/github-readme-stats)
+<div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagstalos&layout=compact&theme=dracula)](https://github.com/wagstalos/github-readme-stats) <div>
 
 
 
