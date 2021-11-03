@@ -25,7 +25,6 @@ Portfólio: http://portfolio.wpsgames.com.br/
 
 ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=wagstalos&show_icons=true&theme=dracula)
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagstalos&layout=compact&theme=dracula)](https://github.com/wagstalos/github-readme-stats) 
 
 
@@ -62,4 +61,3 @@ Here are some ideas to get you started:
 <p align="center"> Quantidade  de visitas no meu perfil desde 24/08/2021  </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" />
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/wagstalos/wagstalos/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/wagstalos/wagstalos/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
