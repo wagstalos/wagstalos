@@ -42,8 +42,9 @@ Portfólio: http://portfolio.wpsgames.com.br/
 - 📫 How to reach me: insta @wagner.paulo89 
 - 📫 How to reach me: Frontendmentor https://www.frontendmentor.io/profile/wagstalos
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/wagner-silva-6a163555/
+- 📫 How to reach me: Codepen https://codepen.io/wagstalos
 <!--
-**wagstalos/wagstalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**w- 📫 How to reach me: Linkedinagstalos/wagstalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
