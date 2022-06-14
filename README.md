@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img href="https://github.com/wagstalos/wagstalos/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center"> Quantidade  de visitas no meu perfil desde 24/08/2021  </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" />
