@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img href="https://github.com/wagstalos/wagstalos/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
