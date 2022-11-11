@@ -2,6 +2,8 @@
 Hi, I'm Wagner Paulo, Software Engineer at Salesforce, graduated in Graphic Design (UNIP) and Digital Game Development (ETEC). I'm completely in love for technology, I work with website production, E-commerce (Salesforce SFCC), WordPress, SEO, apps, PWA and digital games using agile methodologies such as Scrum and Kanban.
 
 Portfolio: http://portfolio.wpsgames.com.br/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 
 
 ### Skills
