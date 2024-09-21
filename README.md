@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center"> Number of visits to my profile since 24/08/2024  </p>
+<p align="center"> Number of visits to my profile since 24/08/2023  </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wagstalos/count.svg" />
 
